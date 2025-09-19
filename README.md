@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Welcome to my profile <3</h2>
+<h2 align="center"><b><em>Welcome to my profile <3</em></b></h2>
 
 ###
 
@@ -10,7 +10,15 @@
 
 ###
 
-<p align="left">Name: Yeremy<br><br>Residing in: Bogotá, Colombia<br><br>Field of Study: Systems Engineering <br><br>Currently focused on: Academic studies and GNU/Linux<br><br>Skilled in: C++, Python, Java, PHP, Go, and HTTP<br><br>Highly interested in: Algorithm analysis, data structures, and software development practices<br><br>Languages: Spanish (native) & English (technical)</p>
+<p align="left">
+  <b>Name:</b> Yeremy<br><br>
+  <b>Residing in:</b> Bogotá, Colombia<br><br>
+  <b>Field of Study:</b> Systems Engineering <br><br>
+  <b>Currently focused on:</b> Academic studies and GNU/Linux<br><br>
+  <b>Skilled in:</b> C++, Python, Java, PHP, Go, and HTTP<br><br>
+  <b>Highly interested in:</b> Algorithm analysis, data structures, and software development practices<br><br>
+  <b>Languages:</b> Spanish (native) & English (technical)
+</p>
 
 ###
 
@@ -48,7 +56,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=iyeremy&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="yeremyvegap@gmail.com" target="_blank">
+  <a href="mailto:yeremyvegap@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
@@ -61,6 +69,4 @@
 
 ###
 
-<h6 align="center">“Los gatos poseen una serenidad que los humanos solo podemos envidiar.”<br>— Peter Gray</h6>
-
-###
+<h6 align="center"><em>“Los gatos poseen una serenidad que los humanos solo podemos envidiar.”</em><br>— <b>Peter Gray</b></h6>
