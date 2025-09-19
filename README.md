@@ -55,12 +55,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/iYeremy/iYeremy/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="400" src="https://i.pinimg.com/originals/96/62/f9/9662f9d0b3df22f01681b9b2344665bb.gif"  />
 </div>
