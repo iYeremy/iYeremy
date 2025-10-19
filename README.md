@@ -16,7 +16,6 @@
   <b>Field of Study:</b> Systems Engineering <br><br>
   <b>Currently focused on:</b> GNU/Linux<br><br>
   <b>Skilled in:</b> C++, Python, Java, and Go
-  <b>Highly interested in:</b> Algorithm analysis, data structures, and software development practices<br><br>
   <b>Languages:</b> Spanish (native) & English (technical)
 </p>
 
