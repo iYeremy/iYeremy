@@ -14,7 +14,6 @@
   <b>Name:</b> iYeremy<br><br>
   <b>Residing in:</b> Bogotá, Colombia<br><br>
   <b>Field of Study:</b> Systems Engineering <br><br>
-  <b>Currently focused on:</b> GNU/Linux<br><br>
   <b>Skilled in:</b> C++, Python, Java, and Go<br><br> 
   <b>Languages:</b> Spanish (native) & English (technical)
 </p>
