@@ -51,9 +51,11 @@
   <a href="mailto:yeremyvegap@gmail.com" target="_blank">
   </a>
 </div>
+### 
 
-
+<div align="center">
 [![iYeremy GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=iYeremy.readme.visitor-badge)](https://github.com/iYeremy/)  
+</div>
 
 ###
 
