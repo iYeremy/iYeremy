@@ -61,3 +61,5 @@
 <h6 align="center"><em>“Los gatos poseen una serenidad que los humanos solo podemos envidiar.”</em><br>— <b>Peter Gray</b></h6>
 
 [![iYeremy GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=iYeremy.readme.visitor-badge)](https://github.com/iYeremy/)  
+
+[![wakatime](https://wakatime.com/badge/user/70efda3c-cb64-496c-9511-af5a94076015.svg)](https://wakatime.com/@70efda3c-cb64-496c-9511-af5a94076015)
