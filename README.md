@@ -53,13 +53,11 @@
 </div>
 
 <div align="center">
-[![iYeremy GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=iYeremy.readme.visitor-badge)](https://github.com/iYeremy/)  
-</div>
-
-<div align="center">
   <img height="400" src="https://i.pinimg.com/originals/96/62/f9/9662f9d0b3df22f01681b9b2344665bb.gif"  />
 </div>
 
 ###
 
 <h6 align="center"><em>“Los gatos poseen una serenidad que los humanos solo podemos envidiar.”</em><br>— <b>Peter Gray</b></h6>
+
+[![iYeremy GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=iYeremy.readme.visitor-badge)](https://github.com/iYeremy/)  
