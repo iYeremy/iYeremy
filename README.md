@@ -52,6 +52,9 @@
   </a>
 </div>
 
+
+[![iYeremy GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=iYeremy.readme.visitor-badge)](https://github.com/iYeremy/)  
+
 ###
 
 <div align="center">
