@@ -62,4 +62,4 @@
 
 [![iYeremy GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=iYeremy.readme.visitor-badge)](https://github.com/iYeremy/)  
 
-[![wakatime](https://wakatime.com/badge/user/70efda3c-cb64-496c-9511-af5a94076015.svg)](https://wakatime.com/@70efda3c-cb64-496c-9511-af5a94076015)
+[![wakatime](https://wakatime.com/badge/user/a4ddc451-cd8b-40e7-9124-26c35a8c981d.svg)](https://wakatime.com/@a4ddc451-cd8b-40e7-9124-26c35a8c981d)
