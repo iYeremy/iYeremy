@@ -36,6 +36,10 @@
 
 ###
 
+![iYeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=iYeremy&theme=dark&show_icons=true)
+
+###
+
 <br clear="both">
 
 <div align="center">
