@@ -15,7 +15,6 @@
   <b>Residing in:</b> Bogotá, Colombia<br><br>
   <b>Field of Study:</b> Systems Engineering <br><br>
   <b>Skilled in:</b> C++, Python, and Go<br><br> 
-  <b>Languages:</b> Spanish (native) & English (technical)
 </p>
 
 ###
