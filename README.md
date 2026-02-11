@@ -14,7 +14,6 @@
   <b>Name:</b> iYeremy<br><br>
   <b>Residing in:</b> Bogotá, Colombia<br><br>
   <b>Field of Study:</b> Systems Engineering <br><br>
-  <b>Skilled in:</b> C++, Python, and Go<br><br> 
 </p>
 
 ###
