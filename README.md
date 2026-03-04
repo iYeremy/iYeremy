@@ -53,7 +53,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
 </div>
-<figure><embed src="https://wakatime.com/share/@iYeremy/edd37c7d-9b19-43f9-9974-c2b0a3829559.svg"></embed></figure>
 ###
 
 <br clear="both">
@@ -79,7 +78,7 @@
 ###
 
 <h6 align="center"><em>“Los gatos poseen una serenidad que los humanos solo podemos envidiar.”</em><br>— <b>Peter Gray</b></h6>
-
+<figure><embed src="https://wakatime.com/share/@iYeremy/edd37c7d-9b19-43f9-9974-c2b0a3829559.svg"></embed></figure>
 [![iYeremy GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=iYeremy.readme.visitor-badge)](https://github.com/iYeremy/)  
 
 [![wakatime](https://wakatime.com/badge/user/a4ddc451-cd8b-40e7-9124-26c35a8c981d.svg)](https://wakatime.com/@a4ddc451-cd8b-40e7-9124-26c35a8c981d)
