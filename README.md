@@ -53,7 +53,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
 </div>
-
+<figure><embed src="https://wakatime.com/share/@iYeremy/edd37c7d-9b19-43f9-9974-c2b0a3829559.svg"></embed></figure>
 ###
 
 <br clear="both">
