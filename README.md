@@ -6,7 +6,7 @@
 <div>
 <h2 align="center"> About Me!</h2>
   <div align="center">
-<img src="https://i.pinimg.com/originals/4d/0e/9c/4d0e9cedc268d0f03b7954d8a8da6368.gif" align="right" width="180" height="150">
+<img src="https://i.pinimg.com/originals/4d/0e/9c/4d0e9cedc268d0f03b7954d8a8da6368.gif" align="right" width="220" height="180">
   </div>
 <li>
  <b>Name:</b> Yeremy Vega </li>
