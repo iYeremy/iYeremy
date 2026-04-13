@@ -82,6 +82,6 @@
   <img src="https://wakatime.com/share/@iYeremy/edd37c7d-9b19-43f9-9974-c2b0a3829559.svg" />
 </p>
 
-[![iYeremy GitHub stats](https://github-readme-stats.vercel.app/api?username=iYeremy)](https://github.com/anuraghazra/github-readme-stats)
+[![iYeremy GitHub stats](https://github-readme-stats.vercel.app/api?username=iYeremy)](https://github.com/iYeremy/github-readme-stats)
 
 [![wakatime](https://wakatime.com/badge/user/a4ddc451-cd8b-40e7-9124-26c35a8c981d.svg)](https://wakatime.com/@a4ddc451-cd8b-40e7-9124-26c35a8c981d)
