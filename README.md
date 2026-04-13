@@ -7,7 +7,6 @@
 
 <img align="right" height="275" src="https://i.pinimg.com/originals/4d/0e/9c/4d0e9cedc268d0f03b7954d8a8da6368.gif"  />
 
-###
 
 <p align="left">
   <b>Name:</b> iYeremy<br><br>
@@ -45,8 +44,6 @@
 ![](https://streak-stats.demolab.com/?user=iYeremy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=iYeremy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-[![](https://komarev.com/ghpvc/?username=iYeremy&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ![iYeremy's GitHub Stats][github-stats-img]
 ---
