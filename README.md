@@ -6,7 +6,7 @@
 <div>
 <h2 align="center"> About Me!</h2>
   <div align="center">
-<img src="https://i.pinimg.com/originals/4d/0e/9c/4d0e9cedc268d0f03b7954d8a8da6368.gif" align="right" width="240" height="200">
+<img src="https://i.pinimg.com/originals/4d/0e/9c/4d0e9cedc268d0f03b7954d8a8da6368.gif" align="right" width="240" height="210">
   </div>
 <li>
  <b>Name:</b> Yeremy Vega </li>
@@ -15,6 +15,12 @@
 </li>
 <li>
 <b>Hobbys:</b> learn (idk)
+</li>
+<li>
+<b>Arch</b> hyprland>>>>
+</li>
+<li>
+<b>Neovim</b> GOAT
 </li>
 <br><br><br><br>
 </div>
@@ -40,20 +46,23 @@
   </a>
 </div>
 
+
+###
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iYeremy&theme=dark&hide_border=false" width="42%">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=iYeremy&theme=dark&hide_border=false&layout=compact" width="32%">
+</p>
+<p align="center">
+  <img src="https://cheesits456-readme-stats.vercel.app/api?username=iYeremy&count_private=true&show_icons=true&include_all_commits=true&theme=dark">
+</p>
+
+###
+
 <div align="center">
   <img height="400" src="https://i.pinimg.com/originals/96/62/f9/9662f9d0b3df22f01681b9b2344665bb.gif"  />
 </div>
 
-###
-
-## GitHub Stats:
-![](https://streak-stats.demolab.com/?user=iYeremy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=iYeremy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-![iYeremy's GitHub Stats][github-stats-img]
----
-##
 <h6 align="center"><em>“Los gatos poseen una serenidad que los humanos solo podemos envidiar.”</em><br>— <b>Peter Gray</b></h6>
 
 [github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=iYeremy&count_private=true&show_icons=true&include_all_commits=true&theme=dark
