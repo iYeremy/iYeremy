@@ -45,8 +45,6 @@
 ###
 
 ## GitHub Stats:
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=iYeremy&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="iYeremy's Top Languages" align="right" width="295">
-
 ![](https://streak-stats.demolab.com/?user=iYeremy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=iYeremy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
