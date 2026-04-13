@@ -2,11 +2,6 @@
 
 <h1 align="center"><b><em>Welcome to my profile :D</em></b></h1>
 
-###
-<br clear="both">
-
-<img align="right" height="275" src="https://i.pinimg.com/originals/4d/0e/9c/4d0e9cedc268d0f03b7954d8a8da6368.gif"  />
-
 
 <div>
 <h2 align="center"> About Me!</h2>
