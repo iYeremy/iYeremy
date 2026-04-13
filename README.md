@@ -1,9 +1,9 @@
 <br clear="both">
 
-<h2 align="center"><b><em>Welcome to my profile <3</em></b></h2>
+<h1 align="center"><b><em>Welcome to my profile <3</em></b></h1>
 
 ###
-
+---
 <br clear="both">
 
 <img align="right" height="275" src="https://i.pinimg.com/originals/4d/0e/9c/4d0e9cedc268d0f03b7954d8a8da6368.gif"  />
@@ -15,7 +15,7 @@
   <b>Residing in:</b> Bogotá, Colombia<br><br>
   <b>Field of Study:</b> Systems Engineering <br><br>
 </p>
-
+---
 ###
 
 # Tech Stack:
