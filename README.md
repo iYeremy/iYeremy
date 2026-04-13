@@ -53,7 +53,7 @@
 ##
 <h6 align="center"><em>“Los gatos poseen una serenidad que los humanos solo podemos envidiar.”</em><br>— <b>Peter Gray</b></h6>
 
-[github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=iYeremy&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark
+[github-stats-img]: https://iYeremy-readme-stats.vercel.app/api?username=iYeremy&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark
 [github-langs-img]: https://cheesits456-readme-stats.vercel.app/api/top-langs?username=iYeremy&layout=compact&hide=smarty
 
 [![wakatime](https://wakatime.com/badge/user/a4ddc451-cd8b-40e7-9124-26c35a8c981d.svg)](https://wakatime.com/@a4ddc451-cd8b-40e7-9124-26c35a8c981d)
