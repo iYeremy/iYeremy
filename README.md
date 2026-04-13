@@ -48,10 +48,11 @@
 ![](https://streak-stats.demolab.com/?user=iYeremy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=iYeremy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
 [![](https://komarev.com/ghpvc/?username=iYeremy&icon=0&color=3)](https://visitcount.itsvg.in)
 
 ![iYeremy's GitHub Stats][github-stats-img]
+---
 ##
 <h6 align="center"><em>“Los gatos poseen una serenidad que los humanos solo podemos envidiar.”</em><br>— <b>Peter Gray</b></h6>
 
