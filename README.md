@@ -76,7 +76,12 @@
 </div>
 
 ###
+## My Skills
 
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=iYeremy&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="iYeremy's Top Languages" align="right" width="295">
+
+![iYeremy's GitHub Stats][github-stats-img]
+##
 <h6 align="center"><em>“Los gatos poseen una serenidad que los humanos solo podemos envidiar.”</em><br>— <b>Peter Gray</b></h6>
 
 [github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=iYeremy456&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark
