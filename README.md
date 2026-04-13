@@ -1,4 +1,3 @@
-<h1>cheesits456 <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=iYeremy&style=flat-square"></h1>
 <br clear="both">
 
 <h2 align="center"><b><em>Welcome to my profile <3</em></b></h2>
