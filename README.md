@@ -1,7 +1,8 @@
 <br clear="both">
 
 <h1 align="center"><b><em>Welcome to my profile :D</em></b></h1>
-
+[github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=iYeremy&count_private=true&show_icons=true&include_all_commits=true&theme=dark
+[github-langs-img]: https://cheesits456-readme-stats.vercel.app/api/top-langs?username=iYeremy&layout=compact&hide=smarty
 
 <div>
 <h2 align="center"> About Me!</h2>
