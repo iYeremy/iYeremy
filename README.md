@@ -1,8 +1,6 @@
 <br clear="both">
 
 <h1 align="center"><b><em>Welcome to my profile :D</em></b></h1>
-[github-stats-img]: https://cheesits456-readme-stats.vercel.app/api?username=iYeremy&count_private=true&show_icons=true&include_all_commits=true&theme=dark
-[github-langs-img]: https://cheesits456-readme-stats.vercel.app/api/top-langs?username=iYeremy&layout=compact&hide=smarty
 
 <div>
 <h2 align="center"> About Me!</h2>
@@ -54,7 +52,7 @@
   <img src="https://streak-stats.demolab.com/?user=iYeremy&theme=dark&hide_border=false" width="42%">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=iYeremy&theme=dark&hide_border=false&layout=compact" width="32%">
 </p>
-![Stats de GitHub][github-stats-img]
+![Alt text][github-stats-img]
 
 ###
 
